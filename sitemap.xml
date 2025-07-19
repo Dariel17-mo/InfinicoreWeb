@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://infinicorewebworks.com/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://infinicorewebworks.com/services</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://infinicorewebworks.com/portfolio</loc>
+    <priority>0.64</priority>
+  </url>
+
+  <url>
+    <loc>https://infinicorewebworks.com/about</loc>
+    <priority>0.64</priority>
+  </url>
+
+  <url>
+    <loc>https://infinicorewebworks.com/contact</loc>
+    <priority>0.64</priority>
+  </url>
+
+</urlset>
+<!-- This is a sitemap for InfinicoreWebWorks, listing the main pages of the website with their priorities. -->
